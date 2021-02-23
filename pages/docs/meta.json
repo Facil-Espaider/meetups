@@ -1,10 +1,16 @@
 {
-  "get-started": "Get Started",
-  "structure": "Structure",
-  "mdx": "Markdown and React",
-  "built-in-components": "Built-In Components",
-  "ssg": "SSG Support",
-  "anchors": "Anchor Links",
-  "i18n": "I18n",
-  "advanced": "Advanced"
+  "1-introducao-scrum": "1 - Introdução ao scrum",
+  "2-analise-algoritmos": "2 - Analise de algoritmos",
+  "3-criando-apps-react-native": "3 - Criando Apps com React-Native",
+  "4-ambientes-vulneraveis": "4 - Ambientes Vulneraveis - MiM",
+  "5-recuperacao-informacoes": "5 - Similaridade de texto",
+  "6-smart-water": "6 - SmartWater",
+  "7-historia-js-1": "7 - História do JS - Parte 1",
+  "8-historia-js-2": "8 - História do JS - Parte 2",
+  "9-nHibernate": "9 - ORM para .net - nHibernate",
+  "10-xss-attack": "10 - XSS-Attack",
+  "11-electron": "11 - Electron",
+  "12-padroes-projeto-chain-resposability": "12 - Padrões de projeto",
+  "13-solid": "13-solid",
+  "14-google-hacking": "14-google-hacking"
 }
