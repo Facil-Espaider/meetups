@@ -7,16 +7,13 @@ Desenvolvido com [Nextra](https://nextra.vercel.app)
 
 **Nextra** é uma biblioteca desenvolvida em [Next.js](https://nextjs.org) e [MDX](https://mdxjs.com)  no-code site gerador.
 
-![](/public/Meetups.png)
+![Painel de meetups](/public/Meetups.png)
 
 ---
-
 Created by [@shuding](https://github.com/shuding) and [@pacocoursey](https://github.com/pacocoursey) at [Vercel](https://vercel.com). Released under the MIT license.
-
 Adaptado por Anderson Rissardi.
 
-https://wkrh.com.br/introducao-ao-nextjs/
-
+Melhor visualização através do link publico do Notion. Veja [aqui](https://www.notion.so/15-Meetup-F-cil-985dae955b094596860ad5f454d58026)
 
 
 ---
@@ -30,7 +27,7 @@ Criar um painel interno em que seja possível visualizar todos os meetups que j�
 
 ### PROJETO
 
-![15%C2%BA%20Meetup%20Fa%CC%81cil%204e8b2f716362437cae5904bd8a20f622/Meetups.png](15%C2%BA%20Meetup%20Fa%CC%81cil%204e8b2f716362437cae5904bd8a20f622/Meetups.png)
+![Painel](/public/Meetups.png)
 
 Mookup do painel de meetups
 
@@ -54,7 +51,7 @@ http://sup-meetups:3000
 
 ### O QUE É NEXT.JS?
 
-![15%C2%BA%20Meetup%20Fa%CC%81cil%204e8b2f716362437cae5904bd8a20f622/logo_next.png](15%C2%BA%20Meetup%20Fa%CC%81cil%204e8b2f716362437cae5904bd8a20f622/logo_next.png)
+![O que é?!?](/public/logo_next.png)
 
 → É um framework para criação de sistemas WEB;  
 
@@ -77,7 +74,7 @@ http://sup-meetups:3000
 
 → Sistema híbrido SSG(Geração statica) e SSR(Server Side Rendering)
 
-![15%C2%BA%20Meetup%20Fa%CC%81cil%204e8b2f716362437cae5904bd8a20f622/usar.png](15%C2%BA%20Meetup%20Fa%CC%81cil%204e8b2f716362437cae5904bd8a20f622/usar.png)
+![usar.png](/public/usar.png)
 
 - Páginas completamente staticas, geradas ou não no momento do build
 - Páginas staticas geradas no build com a utilização de dados externos
@@ -87,7 +84,7 @@ http://sup-meetups:3000
 
 ## Nosso dia a dia com WebForms
 
-![15%C2%BA%20Meetup%20Fa%CC%81cil%204e8b2f716362437cae5904bd8a20f622/WEB_Forms.png](15%C2%BA%20Meetup%20Fa%CC%81cil%204e8b2f716362437cae5904bd8a20f622/WEB_Forms.png)
+![WEB_Forms.png](/public/WEB_Forms.png)
 
 **Nenhuma página statica, todas geradas sempre sobdemanda.**
 
@@ -95,7 +92,7 @@ http://sup-meetups:3000
 
 ### POR QUE USAR NEXT.JS?
 
-![15%C2%BA%20Meetup%20Fa%CC%81cil%204e8b2f716362437cae5904bd8a20f622/Untitled.png](15%C2%BA%20Meetup%20Fa%CC%81cil%204e8b2f716362437cae5904bd8a20f622/Untitled.png)
+![Untitled.png](/public/Untitled.png)
 
 Principais diferenciais 
 
@@ -116,7 +113,7 @@ Basta acessar http://localhost:3000
 
 Estrutura de pastas
 
-![15%C2%BA%20Meetup%20Fa%CC%81cil%204e8b2f716362437cae5904bd8a20f622/Untitled%201.png](15%C2%BA%20Meetup%20Fa%CC%81cil%204e8b2f716362437cae5904bd8a20f622/Untitled%201.png)
+![/Untitled%201.png](/public/Untitled%201.png)
 
 ---
 
@@ -149,7 +146,7 @@ Todo o processamento começa, fazendo conexão com banco de dados e tudo o que m
 
 O pacote gerado é enviado para o diretório: ~/.next
 
-![15%C2%BA%20Meetup%20Fa%CC%81cil%204e8b2f716362437cae5904bd8a20f622/Untitled%202.png](15%C2%BA%20Meetup%20Fa%CC%81cil%204e8b2f716362437cae5904bd8a20f622/Untitled%202.png)
+![Untitled%202.png](/public/Untitled%202.png)
 
 Para rodar o pacote gerado é necessário acessar a pasta do projeto e executar o comando
 
